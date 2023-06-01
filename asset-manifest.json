@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Spending_Manager/static/css/main.3a56e79c.css",
+    "main.js": "/Spending_Manager/static/js/main.e337cea8.js",
+    "index.html": "/Spending_Manager/index.html",
+    "main.3a56e79c.css.map": "/Spending_Manager/static/css/main.3a56e79c.css.map",
+    "main.e337cea8.js.map": "/Spending_Manager/static/js/main.e337cea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a56e79c.css",
+    "static/js/main.e337cea8.js"
+  ]
+}
